@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI2/Pro/EU/u
 
 ### US:
 
-https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/blob/main/niu_scooters/KQI2/Pro/US/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI2/Pro/US/update.json
 
 
 
