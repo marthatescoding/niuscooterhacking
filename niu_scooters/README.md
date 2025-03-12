@@ -1,7 +1,3 @@
-# kqi3 and kqi2 scooter Firmware repository
-Repository with firmwares for the kqi3 and kqi2 scooters, these files where collected from various places. Also the JSON descriptors values are provided with information like the filename, type and MD5.
-
-Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com/watch?v=40BTCnkcEHg
 
 
 
@@ -9,11 +5,11 @@ Tutorial (in Spanish but with subtitles it should be OK) https://www.youtube.com
 
 ### DE: 
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI2/Pro/DE/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI2/Pro/DE/update.json
 
 ### EU:
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI2/Pro/EU/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI2/Pro/EU/update.json
 
 ### US:
 
@@ -25,15 +21,15 @@ https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_sco
 
 ### DE: 
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Sport/DE/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Sport/DE/update.json
 
 ### EU:
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Sport/EU/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Sport/EU/update.json
 
 ### US:
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Sport/US/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Sport/US/update.json
 
 
 
@@ -41,15 +37,15 @@ https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Sport/US
 
 ### DE: 
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Pro/DE/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Pro/DE/update.json
 
 ### EU:
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Pro/EU/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Pro/US/update.json
 
 ### US:
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Pro/US/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Pro/US/update.json
 
 
 
@@ -57,16 +53,14 @@ https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Pro/US/u
 
 ### DE: 
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/DE/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Max/DE/update.json
 
 ### EU:
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/EU/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Max/EU/update.json
 
 ### US:
 
-https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/US/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Max/DE/update.json
 
 
-
-Many thanks to Null, Ivan, cloud and Camialfa
