@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_sco
 
 ### EU:
 
-https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Pro/US/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Pro/EU/update.json
 
 ### US:
 
@@ -61,6 +61,6 @@ https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_sco
 
 ### US:
 
-https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Max/DE/update.json
+https://raw.githubusercontent.com/marthatescoding/niuscooterhacking/main/niu_scooters/KQI3/Max/US/update.json
 
 
